@@ -4,8 +4,8 @@ This is an esoteric programming language created by a Chinese middle school stud
 
 ## Contents
 
->1. [Introduction](#1)
->    1.1[Introduction](#2)
+>1. [Introduction](#1)<br/>
+>   1.1[Introduction](#2)
 
 <h2 id="1">Introduction</h2>
 
